@@ -75,9 +75,6 @@ I thrive across indoor hobbies — and coding is just one of them.
 ║                   GITHUB STATS                           ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Ashok-Dev&layout=compact&theme=tokyonight&bg_color=0f0c29&title_color=c8b6ff&text_color=a0a0c0&border_color=302b63&border_radius=10&hide_border=false" height="165"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Akash-Ashok-Dev&theme=tokyonight&background=0f0c29&ring=c8b6ff&fire=c8b6ff&currStreakLabel=c8b6ff&border=302b63&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
