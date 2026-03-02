@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akash%20Ashok&fontSize=60&fontColor=c8b6ff&fontAlignY=38&desc=Curious%20%7C%20Grounded%20%7C%20Limitless&descAlignY=58&descColor=a0a0c0&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C8B6FF&center=true&vCenter=true&width=600&lines=AI+%26+Systems+Design+Enthusiast;Low-level+Code+Explorer;Indoor+Hobbyist+%7C+Generalist+at+Heart;Polymath+at+core;Currently+Deep+in+Study+Mode+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C8B6FF&center=true&vCenter=true&width=600&lines=AI+%26+Systems+Design+Enthusiast;Low-level+Code+Explorer;Indoor+Hobbyist+%7C+Generalist+at+Heart;Polymath at Core;Currently+Deep+in+Study+Mode+%F0%9F%93%9A" alt="Typing SVG" />
 
 </div>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-> *"I'm like a polymath — I like different things. A generalist who likes to specialise."*
+> *"I'm a polymath — I like different things. A generalist who likes to specialise."*
 
 I'm **Akash Ashok**, a curious mind drawn to the things most people find hard.  
 I thrive across indoor hobbies — and coding is just one of them.
@@ -76,12 +76,12 @@ I thrive across indoor hobbies — and coding is just one of them.
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akash-Ashok-Dev&show_icons=true&theme=tokyonight&bg_color=0f0c29&title_color=c8b6ff&icon_color=c8b6ff&text_color=a0a0c0&border_color=302b63&border_radius=10" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Ashok-Dev&layout=compact&theme=tokyonight&bg_color=0f0c29&title_color=c8b6ff&text_color=a0a0c0&border_color=302b63&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akash-Ashok-Dev&show_icons=true&theme=tokyonight&bg_color=0f0c29&title_color=c8b6ff&icon_color=c8b6ff&text_color=a0a0c0&border_color=302b63&border_radius=10&hide_border=false&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Ashok-Dev&layout=compact&theme=tokyonight&bg_color=0f0c29&title_color=c8b6ff&text_color=a0a0c0&border_color=302b63&border_radius=10&hide_border=false" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Akash-Ashok-Dev&theme=tokyonight&background=0f0c29&ring=c8b6ff&fire=c8b6ff&currStreakLabel=c8b6ff&border=302b63&border_radius=10" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Akash-Ashok-Dev&theme=tokyonight&background=0f0c29&ring=c8b6ff&fire=c8b6ff&currStreakLabel=c8b6ff&border=302b63&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
 
 </div>
 
