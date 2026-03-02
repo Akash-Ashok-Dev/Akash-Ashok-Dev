@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akash%20Ashok&fontSize=60&fontColor=c8b6ff&fontAlignY=38&desc=Curious%20%7C%20Grounded%20%7C%20Limitless&descAlignY=58&descColor=a0a0c0&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C8B6FF&center=true&vCenter=true&width=600&lines=AI+%26+Systems+Design+Enthusiast;Low-level+Code+Explorer;Indoor+Hobbyist+%7C+Generalist+at+Heart+-+Polymath;Currently+Deep+in+Study+Mode+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C8B6FF&center=true&vCenter=true&width=600&lines=AI+%26+Systems+Design+Enthusiast;Low-level+Code+Explorer;Indoor+Hobbyist+%7C+Generalist+at+Heart;Polymath+at+core;Currently+Deep+in+Study+Mode+%F0%9F%93%9A" alt="Typing SVG" />
 
 </div>
 
